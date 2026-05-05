@@ -39,3 +39,5 @@ temp_*.txt
 *-issue-*
 
 .local/
+# --- Cache ---
+backend/cache_data/
